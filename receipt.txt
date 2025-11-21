@@ -1,0 +1,13 @@
+==================== PIZZA PALACE RECEIPT ====================
+Customer Name: Ly Sween
+Phone: 0889035611
+Address: Phnom Penh
+--------------------------------------------------------------
+Items Ordered: 18
+Subtotal: $196
+Discount: $0
+VAT: $19.6
+Final Total: $215.6
+Payment Method: ABA
+--------------------------------------------------------------
+Thank you for ordering from Pizza Palace!
